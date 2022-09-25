@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/poe-vendor-string/static/css/main.b0ec47f5.css",
+    "main.js": "/poe-vendor-string/static/js/main.381cfb91.js",
+    "index.html": "/poe-vendor-string/index.html",
+    "main.b0ec47f5.css.map": "/poe-vendor-string/static/css/main.b0ec47f5.css.map",
+    "main.381cfb91.js.map": "/poe-vendor-string/static/js/main.381cfb91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0ec47f5.css",
+    "static/js/main.381cfb91.js"
+  ]
+}
